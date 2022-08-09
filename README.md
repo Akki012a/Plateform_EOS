@@ -1,1 +1,1 @@
-# Plateform_ETC
+# Plateform_EOS
